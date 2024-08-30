@@ -44,12 +44,7 @@
                     </div>
                   </div>
 
-                    <div class ="form-actiona pb-5">
-                        <div class="text-ledt">
-                            <asp:Button ID="btnAddorUpdate" runat="server" CssClass="btn btn-info" Text="Add" OnClick="btnAddorUpdate_Click"/>
-                            <asp:Button ID="btnClear" runat="server" CssClass="btn-dark" Text="Reset" OnClick="btnClear_Click" />
-                        </div>"
-                    </div>
+                  
 
                  <div>
                      <asp:Image ID="imagePreview" runat="server" CssClass="img-thumbnail" AlternateText="" />
